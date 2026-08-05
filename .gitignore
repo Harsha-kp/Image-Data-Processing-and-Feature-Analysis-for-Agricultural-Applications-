@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.h5
+*.keras
+
+# Dataset
+*.mat
+*.zip
+
+# Google Colab
+sample_data/
+
+# Virtual Environment
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
