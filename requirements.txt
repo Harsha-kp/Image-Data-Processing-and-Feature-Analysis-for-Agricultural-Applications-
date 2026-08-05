@@ -1,0 +1,12 @@
+tensorflow>=2.15
+numpy
+scipy
+scikit-learn
+scikit-image
+matplotlib
+opencv-python
+pandas
+seaborn
+joblib
+h5py
+tqdm
